@@ -1,0 +1,1 @@
+# 1Equation 2Inconnus1erDegre C++
